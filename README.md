@@ -1,4 +1,4 @@
-Modules (theory + practical task to every module):
+Modules:
 1. Basic Engineering
 2. Basic Statistics
 3. Exploratory Data Analysis
